@@ -1,4 +1,4 @@
-require_relative "tile"
+require_relative "/Users/appacademy/Desktop/W1D4/screwedoku/tile.rb"
 
 class Board
   def self.empty_grid
